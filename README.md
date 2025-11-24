@@ -47,7 +47,7 @@ The dashboard uses loan-related metadata such as:
 
 
 
-![Dashboard Preview](./LoanDataDashboard.png)
+![Dashboard Preview](."C:\Users\ASUS\Desktop\Tableau\LoanDataAnalysisDashboard.png")
 
 ---
 
